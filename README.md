@@ -1,5 +1,8 @@
 # Buffer Overflow Attack Lab
 
+## ** Since the screenshot are not visible in the mark-down file, you can find out the screenshot in the main folder or you can see the readme file in the github repository using this link :  https://github.com/abhisshekk/BufferOverflow/edit/main/README.md
+
+
 ### Section 3.4 - Running file a32.out and a64.out.
 After running the makefile we get two binary files i.e., a32.out and a64.out.
 After running the 2 binary files we get following output as shown in the snippet:
