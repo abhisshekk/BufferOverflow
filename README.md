@@ -1,6 +1,6 @@
 # Buffer Overflow Attack Lab
 
-## ** Since the screenshot are not visible in the mark-down file, you can find out the screenshot in the main folder or you can see the readme file in the github repository using this link :  https://github.com/abhisshekk/BufferOverflow/edit/main/README.md
+## ** Since the screenshot are not visible in the mark-down file, you can find out the screenshot in the main folder or you can see the readme file in the github repository using this link : https://github.com/abhisshekk/BufferOverflow/blob/main/README.md
 
 
 ### Section 3.4 - Running file a32.out and a64.out.
