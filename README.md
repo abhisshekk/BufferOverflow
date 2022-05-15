@@ -1,4 +1,4 @@
-# BufferOverflow
+# Buffer Overflow Attack Lab
 
 ### Section 3.4 - Running file a32.out and a64.out.
 After running the makefile we get two binary files i.e., a32.out and a64.out.
